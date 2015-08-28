@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CrytoWallet</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login_page">LoginPage</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_login_page1">LoginPage1</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="title_activity_make_transfer">MakeTransfer</string>
+    <string name="title_activity_view_balance">ViewBalance</string>
+    <string name="title_activity_add_friend">AddFriend</string>
+    <string name="title_activity_login_main">LoginMain</string>
+	<color name="white">#FFFFFF</color>
+	<color name="yellow">#e59116</color>
+	<color name="blue">#0066cc</color>
+	<color name="black">#000000</color>
+	<string name="login">Login</string>
+</resources>
